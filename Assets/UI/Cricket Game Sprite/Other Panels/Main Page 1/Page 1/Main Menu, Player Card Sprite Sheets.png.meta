@@ -1,0 +1,1581 @@
+fileFormatVersion: 2
+guid: 7adacd60f8d0d3b479de6ffa1a724061
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_0
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1872
+        width: 214
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98533ac03844d5444bbb3d4fa6eee6d8
+      internalID: 986585128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_1
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1810
+        width: 172
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d3ee3b3a07c5b4ab1c632a2d4ed183
+      internalID: 1715611292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_2
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 2013
+        width: 170
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e268d1b9208f344a23cd83165fe59a
+      internalID: -1379654050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_3
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1895
+        width: 426
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa95ebdbf22afe4985cc17707b48f04
+      internalID: -2101664914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_4
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1764
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b57c2b6feefa647bc044176a63df53
+      internalID: -1188315690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_5
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1770
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae841b88e963f04aa4fc588a3b67c29
+      internalID: 1035512276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_6
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1560
+        width: 276
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018183e825d2545448b75dba73d4c937
+      internalID: 701497009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_7
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1758
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc63c6644e222a42ab0232861e9e48b
+      internalID: -1474063339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1617
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c697447642c7f4eb3373412a9e2e52
+      internalID: 1321170196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_9
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1616
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d666dcee423664bb66dbba05057e77
+      internalID: -1348056208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_11
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1605
+        width: 83
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608927babe77cee4aafa8dfa44bda03a
+      internalID: 1416627467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_12
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1605
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b0cbaeabf0a014a89a67be0692c035
+      internalID: 608415843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_13
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1605
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82feaa238f793fb469afefce85b47318
+      internalID: -1614044618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_14
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 1602
+        width: 98
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ea906d5fcb40148ad68ee34ec6eca5
+      internalID: -475275284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_15
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1554
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7de77ab398b90045a847601841907b4
+      internalID: -353262048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_16
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1553
+        width: 78
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0441db485798d48a5bfc8d3c9bb596
+      internalID: -26888526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_17
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1554
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75471b7ea132c9b48a7e714afede74d6
+      internalID: -1921751938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_18
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1547
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671fe7aa556d7844b8ca39567c345dd1
+      internalID: -1084436589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_19
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1530
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f6f9072ef16aa4a8eb17ec3ea6a64f
+      internalID: -1907219618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_20
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1510
+        width: 97
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ede753111313e64092619a4809d2028
+      internalID: 748809730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_21
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1492
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b224480ce7e96940b30084e7c674f5a
+      internalID: -315644730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_22
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1446
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11c82f06f7b4c246b7b8e52c0c3b125
+      internalID: -933391550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_23
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 1480
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4ddc81c5832584d8a38d2c3f46170b
+      internalID: 105500535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_24
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1321
+        width: 823
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c219cdb1c58504aad5f0f135c58e25
+      internalID: 851158049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_25
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1468
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ba9f5078043184e9a6df8b5febf4a1
+      internalID: -432556288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_26
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1476
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416e19b7949596641bee6089c67699c7
+      internalID: 621394068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_27
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1426
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ff8beffd1d4d7478cf0956929538f4
+      internalID: 453611222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_28
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1416
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63cf6fb2b4a3444ebbb34448e1bdf5d
+      internalID: -691869046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_29
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1392
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8dde00873e2ec49bfca437636555ae
+      internalID: 23781890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_30
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1332
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9de2a6ecefdf441bce5a2e11620849
+      internalID: -211013347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_31
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1397
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb1790e10857b441b83076eb7dcb66f
+      internalID: -1585102613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_33
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1344
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a94ee1e3ff85c4479089962124e786d
+      internalID: -1067381449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_34
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1319
+        width: 85
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9864e509e6a7a542ac584268b985fc8
+      internalID: 1572404712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_35
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1332
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0ef1fe732fe5d4780ddb4184db2d9d
+      internalID: -181474539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_36
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1271
+        width: 9
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debd75dc0fc540244ab3cf944ed453e2
+      internalID: -475133335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_37
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1242
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75711b5bb44294b4d959cd3533c34dd2
+      internalID: -1819693782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_38
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1218
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f57ada789063df4e9db3869148d5b87
+      internalID: -132903609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_39
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1152
+        width: 305
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf2c898d651df74da938bee476c3ab8
+      internalID: 364066987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_40
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1193
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b638c29682d694db15880f0436b347
+      internalID: 1670177838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_41
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1170
+        width: 170
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c352c07d2e55494fa9742708a081739
+      internalID: -1444684541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_42
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1164
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db1e5dd43930464b8bac2bd70872369
+      internalID: -1580415240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_43
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1170
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8923f1ffaf8384e82eb23d3e0088ac
+      internalID: 139439484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_44
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1166
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f28534f0ff0d541970dc0725f28305
+      internalID: -168675148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_45
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1158
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e45362b75b4d146bfed5405b7d2515
+      internalID: 430421249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_46
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1140
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c49403212c81754b8e1cfa01752d4a4
+      internalID: 54331056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_47
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1161
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0feb842fc990dcb47be510d011086b49
+      internalID: -893295586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_48
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1140
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1478bfcbfee0f49a1c6b781ed83355
+      internalID: -1077132259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_49
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1146
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a45022bf66b67a4289b6481fe2167f9
+      internalID: 312971807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f3d37c8919a834c840f6fb547d1a33
+      internalID: -721174731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_51
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1150
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4ab5645c665c1488265fba94c25eb6
+      internalID: -543904739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_52
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1134
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94336b5fcead1eb49b3e41d5f7458b82
+      internalID: -233965965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_53
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1140
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1712814cf1a3bcf4e9e2837ccfa5dae5
+      internalID: 711313704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_54
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1128
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140ab358a9991f444a7a4b197989ddbf
+      internalID: 118483476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_55
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1128
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066c47238960b3d4b9badf66e1d8fd06
+      internalID: 1775313209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_56
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 600
+        width: 342
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6a8da623d71e5469dd69629e5e39bd
+      internalID: -285197795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_57
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1008
+        width: 181
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1de94ec737850438688984aed26bb3
+      internalID: -981096782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_58
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 755
+        width: 268
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbf79c4412539e42a1aa39d1c5377db
+      internalID: 985341994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_59
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 877
+        width: 187
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ffa1bfa57653641a1a3a27c20bef83
+      internalID: 2084367802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_60
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 899
+        width: 194
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ee33460445132459f0eddafcd82006
+      internalID: 531901446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_61
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 799
+        width: 187
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893f51d6113036f42805e81e5759014d
+      internalID: 920126558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_62
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 637
+        width: 307
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9581c4f0558918343b1576c6241cbf93
+      internalID: 242781829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_63
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 30
+        width: 416
+        height: 488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e7722531fe052479c04b0e1a35d620
+      internalID: 1382200864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu, Player Card Sprite Sheets_64
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 90
+        width: 319
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391e17b7c196c474498ff5c6a8a10d37
+      internalID: -1587248971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8597cca799a319d48ad9a57c8835a316
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Main Menu, Player Card Sprite Sheets_0: 986585128
+      Main Menu, Player Card Sprite Sheets_1: 1715611292
+      Main Menu, Player Card Sprite Sheets_10: 135957174
+      Main Menu, Player Card Sprite Sheets_11: 1416627467
+      Main Menu, Player Card Sprite Sheets_12: 608415843
+      Main Menu, Player Card Sprite Sheets_13: -1614044618
+      Main Menu, Player Card Sprite Sheets_14: -475275284
+      Main Menu, Player Card Sprite Sheets_15: -353262048
+      Main Menu, Player Card Sprite Sheets_16: -26888526
+      Main Menu, Player Card Sprite Sheets_17: -1921751938
+      Main Menu, Player Card Sprite Sheets_18: -1084436589
+      Main Menu, Player Card Sprite Sheets_19: -1907219618
+      Main Menu, Player Card Sprite Sheets_2: -1379654050
+      Main Menu, Player Card Sprite Sheets_20: 748809730
+      Main Menu, Player Card Sprite Sheets_21: -315644730
+      Main Menu, Player Card Sprite Sheets_22: -933391550
+      Main Menu, Player Card Sprite Sheets_23: 105500535
+      Main Menu, Player Card Sprite Sheets_24: 851158049
+      Main Menu, Player Card Sprite Sheets_25: -432556288
+      Main Menu, Player Card Sprite Sheets_26: 621394068
+      Main Menu, Player Card Sprite Sheets_27: 453611222
+      Main Menu, Player Card Sprite Sheets_28: -691869046
+      Main Menu, Player Card Sprite Sheets_29: 23781890
+      Main Menu, Player Card Sprite Sheets_3: -2101664914
+      Main Menu, Player Card Sprite Sheets_30: -211013347
+      Main Menu, Player Card Sprite Sheets_31: -1585102613
+      Main Menu, Player Card Sprite Sheets_32: -972029889
+      Main Menu, Player Card Sprite Sheets_33: -1067381449
+      Main Menu, Player Card Sprite Sheets_34: 1572404712
+      Main Menu, Player Card Sprite Sheets_35: -181474539
+      Main Menu, Player Card Sprite Sheets_36: -475133335
+      Main Menu, Player Card Sprite Sheets_37: -1819693782
+      Main Menu, Player Card Sprite Sheets_38: -132903609
+      Main Menu, Player Card Sprite Sheets_39: 364066987
+      Main Menu, Player Card Sprite Sheets_4: -1188315690
+      Main Menu, Player Card Sprite Sheets_40: 1670177838
+      Main Menu, Player Card Sprite Sheets_41: -1444684541
+      Main Menu, Player Card Sprite Sheets_42: -1580415240
+      Main Menu, Player Card Sprite Sheets_43: 139439484
+      Main Menu, Player Card Sprite Sheets_44: -168675148
+      Main Menu, Player Card Sprite Sheets_45: 430421249
+      Main Menu, Player Card Sprite Sheets_46: 54331056
+      Main Menu, Player Card Sprite Sheets_47: -893295586
+      Main Menu, Player Card Sprite Sheets_48: -1077132259
+      Main Menu, Player Card Sprite Sheets_49: 312971807
+      Main Menu, Player Card Sprite Sheets_5: 1035512276
+      Main Menu, Player Card Sprite Sheets_50: -721174731
+      Main Menu, Player Card Sprite Sheets_51: -543904739
+      Main Menu, Player Card Sprite Sheets_52: -233965965
+      Main Menu, Player Card Sprite Sheets_53: 711313704
+      Main Menu, Player Card Sprite Sheets_54: 118483476
+      Main Menu, Player Card Sprite Sheets_55: 1775313209
+      Main Menu, Player Card Sprite Sheets_56: -285197795
+      Main Menu, Player Card Sprite Sheets_57: -981096782
+      Main Menu, Player Card Sprite Sheets_58: 985341994
+      Main Menu, Player Card Sprite Sheets_59: 2084367802
+      Main Menu, Player Card Sprite Sheets_6: 701497009
+      Main Menu, Player Card Sprite Sheets_60: 531901446
+      Main Menu, Player Card Sprite Sheets_61: 920126558
+      Main Menu, Player Card Sprite Sheets_62: 242781829
+      Main Menu, Player Card Sprite Sheets_63: 1382200864
+      Main Menu, Player Card Sprite Sheets_64: -1587248971
+      Main Menu, Player Card Sprite Sheets_7: -1474063339
+      Main Menu, Player Card Sprite Sheets_8: 1321170196
+      Main Menu, Player Card Sprite Sheets_9: -1348056208
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
