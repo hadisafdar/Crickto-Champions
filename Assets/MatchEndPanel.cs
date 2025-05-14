@@ -2,6 +2,7 @@ using DG.Tweening;
 using Photon.Pun;
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 /// <summary>
@@ -20,7 +21,8 @@ public class MatchEndPanel : MonoBehaviourPunCallbacks
 
     [Header("Prefabs")]
     public GameObject coinPrefab;
-
+    public GameObject mainMenuButton;
+    
     [Header("Animation Settings")]
     public float playerMoveDuration = 1f;
     public float lightningFadeDuration = 0.5f;
@@ -107,7 +109,12 @@ public class MatchEndPanel : MonoBehaviourPunCallbacks
 
         coin.transform.DOMove(targetPosition, coinFlyDuration)
             .SetEase(Ease.InOutQuad)
-            .OnComplete(() => Destroy(coin));
+            .OnComplete(() => {
+                Destroy(coin);
+                rewardText.text = rewardAmount.ToString();
+                CurrencyManager.Instance.Add(CurrencyManager.CurrencyType.Coins,rewardAmount);
+            });
+            
     }
 
     /// <summary>
@@ -117,5 +124,14 @@ public class MatchEndPanel : MonoBehaviourPunCallbacks
     {
         AudioManager.instance.Play("Coins");
         statusText.text = "Match Over!";
+        mainMenuButton.GetComponent<Button>().onClick.RemoveAllListeners();
+        mainMenuButton.GetComponent<Button>().onClick.AddListener(GoToMainMenu);
+        mainMenuButton.SetActive(true);
+    }
+
+
+    public void GoToMainMenu()
+    {
+        SceneManager.LoadScene("Main Menu");
     }
 }

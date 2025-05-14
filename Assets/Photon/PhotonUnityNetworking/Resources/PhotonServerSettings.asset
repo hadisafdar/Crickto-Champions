@@ -70,6 +70,15 @@ MonoBehaviour:
   - WicketOutRPC
   - RPC_GameEndOutcome
   - DoLaunchRPC
+  - RPC_AssignRoles
+  - RPC_SwapRoles
+  - RPC_ResetGame
+  - ResetBatsmanRPC
+  - SetBattingTrigger
+  - LaunchBallRPC
+  - RPC_LaunchBall
+  - RPC_AwardRuns
+  - CameraCinematics
   DisableAutoOpenWizard: 1
   ShowSettings: 1
   DevRegionSetOnce: 1
